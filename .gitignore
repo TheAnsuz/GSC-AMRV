@@ -1,0 +1,7 @@
+.vscode/
+old_*/*
+private_*
+ranked.gsc
+*.exe
+*.bat
+*.dll
