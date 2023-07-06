@@ -1,5 +1,7 @@
 # GSC-AMRV
 
+***Warning** Due to the last policies by Treyarch and legal stuff involving platforms such as Plutonium or Xlabs (the main systems in which you can run these scripts) this repository may render obsolete and further development may be halved or completly stopped.*
+
 A Repository where all the scripts and libraries I develop for gsc are stored so everyone can use them as they need. Keep in mind these projects are the result a lot of my free time searching for ideas, programming, polishing and publishing and I don't have that much free time.
 
 Feel free to use any scripts you want for your games and make constructive criticism of the different projects on the repository.
